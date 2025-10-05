@@ -43,4 +43,4 @@ According to the acknowledgements: "M. Spitale and H. Gunes are supported by the
 
 8) Do you think publish or perish had an effect on this study?
 
-I think that it is highly likely that publish or perish had an effect on this study. First and foremost, the sample size used in the study is absurdly small, just 11 people. This makes it much easier to reach 
+I think that it is highly likely that publish or perish had an effect on this study. First and foremost, the sample size used in the study is absurdly small, just 11 people. This makes it much easier to p-hack and much more likely to get a result. Also, as we learned in class, dividing the study based on gender and other demographics inceases the likelihood of a result. In addition, the paper touches on a very relevant subject, AI, making it likely to get published if a result is found. 
